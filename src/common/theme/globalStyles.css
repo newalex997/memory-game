@@ -1,0 +1,27 @@
+body, #root {
+  display: flex;
+  margin: 0;
+  min-width: 360px;
+  font-style: normal;
+  overflow-x: hidden;
+  font-family: 'DM Sans', sans-serif;
+  flex-direction: column;
+  min-height: 100vh;;
+}
+
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-style: normal;
+  font-weight: bold;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+}
